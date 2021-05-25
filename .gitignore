@@ -1,0 +1,10 @@
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+out.csv
+in.txt
+
+Debug
+.vs
